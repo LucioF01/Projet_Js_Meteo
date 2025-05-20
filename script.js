@@ -1,7 +1,7 @@
 // Script JavaScript pour l'application météo
 // 13/05/2025
 
-const API_KEY = "5658fc48b94281caaa2a27cf2b9678ac";
+const API_KEY = " ";
 
 const cityInput = document.getElementById("cityInput");
 const searchBtn = document.getElementById("searchBtn");
